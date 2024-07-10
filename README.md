@@ -1,3 +1,3 @@
 # Demo
 
-I'm a description
+I'm a description.
